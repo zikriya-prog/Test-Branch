@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             //new comment is adding
+            //new command is add
         }
     }
 }
